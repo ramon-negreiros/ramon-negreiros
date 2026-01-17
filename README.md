@@ -28,9 +28,9 @@ Sou um entusiasta de tecnologia em transição para a área de **Automação Ind
 
 ### 📚 Resumo de Qualificações:
 
-- [cite_start]**Suporte Técnico:** Experiência prática como autônomo desde 2021[cite: 15].
-- [cite_start]**Sistemas Operacionais:** Conhecimento em terminal Linux e sistemas de arquivos[cite: 25].
-- [cite_start]**Lógica:** Base sólida em Portugol Studio e fundamentos de algoritmos[cite: 32].
+- **Suporte Técnico:** Experiência prática como autônomo desde 2021.
+- **Sistemas Operacionais:** Conhecimento em terminal Linux e sistemas de arquivos.
+- **Lógica:** Base sólida em Portugol Studio e fundamentos de algoritmos.
 
 ---
 
