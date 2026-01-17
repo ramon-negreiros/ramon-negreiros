@@ -18,23 +18,19 @@ Sou um entusiasta de tecnologia em transição para a área de **Automação Ind
 
 ### 🛠️ Tecnologias e Ferramentas:
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Cisco-049324?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco" />
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino" />
-</p>
+| Categoria | Tecnologias |
+| :--- | :--- |
+| **Sistemas** | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white) |
+| **Redes & Hardware** | ![Cisco](https://img.shields.io/badge/Cisco-049324?style=flat-square&logo=cisco&logoColor=white) ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white) |
+| **Programação** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c++&logoColor=white) |
 
 ---
 
-### 📈 Estatísticas do GitHub:
+### 📚 Resumo de Qualificações:
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ramon-negreiros&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
-</p>
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramon-negreiros&layout=compact&theme=tokyonight" alt="Linguagens mais usadas" />
-</p>
+- [cite_start]**Suporte Técnico:** Experiência prática como autônomo desde 2021[cite: 15].
+- [cite_start]**Sistemas Operacionais:** Conhecimento em terminal Linux e sistemas de arquivos[cite: 25].
+- [cite_start]**Lógica:** Base sólida em Portugol Studio e fundamentos de algoritmos[cite: 32].
 
 ---
 
