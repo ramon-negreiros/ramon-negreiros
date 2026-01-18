@@ -1,7 +1,6 @@
 # Olá, eu sou o Ramon! 👋
 
-### 👨‍💻 Futuro Tecnólogo em Automação Industrial & Analista de Suporte em TI
-
+### 👨‍💻 Futuro Tecnólogo em Automação Industrial
 Sou um entusiasta de tecnologia em transição para a área de **Automação Industrial**. Atualmente, combino minha experiência prática de anos como Técnico de Informática com estudos intensivos em **Linux, Redes e Eletrônica Digital**. Meu objetivo é atuar na convergência entre o software e o hardware (IoT/Indústria 4.0).
 
 ---
@@ -12,7 +11,7 @@ Sou um entusiasta de tecnologia em transição para a área de **Automação Ind
 - 🐧 **Sistemas:** Administração de sistemas Linux e CLI (Certificação Google TI).
 - 🌐 **Redes:** Fundamentos de conectividade e protocolos (TCP/IP).
 - 🤖 **Automação:** Lógica de programação aplicada a microcontroladores.
-- 🐍 **Programação:** Aperfeiçoando Python e Lógica com Portugol.
+- 🐍 **Programação:** Aperfeiçoando Python, C, C++ e Lógica com Portugol.
 
 ---
 
