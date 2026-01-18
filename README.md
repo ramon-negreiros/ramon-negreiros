@@ -19,7 +19,7 @@ Sou um entusiasta de tecnologia em transição para a área de **Automação Ind
 ### 🛠️ Tecnologias & Foco de Estudo:
 
 - **Linguagens:** C, C++ (Sistemas Embarcados) e Python (Automação de Scripts).
-- **Hardware:** Eletrónica Digital, Arduino e microcontroladores.
+- **Hardware:** Eletrônica Digital, Arduino e microcontroladores.
 - **Sistemas:** Administração de sistemas Linux via terminal.
 - **Objetivo:** Estágio em Automação Industrial / Desenvolvimento de Sistemas.
 
