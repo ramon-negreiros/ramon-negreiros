@@ -16,13 +16,12 @@ Sou um entusiasta de tecnologia em transição para a área de **Automação Ind
 
 ---
 
-### 🛠️ Tecnologias e Ferramentas:
+### 🛠️ Tecnologias & Foco de Estudo:
 
-| Categoria | Tecnologias |
-| :--- | :--- |
-| **Sistemas** | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white) |
-| **Redes & Hardware** | ![Cisco](https://img.shields.io/badge/Cisco-049324?style=flat-square&logo=cisco&logoColor=white) ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white) |
-| **Programação** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c++&logoColor=white) |
+- **Linguagens:** C, C++ (Sistemas Embarcados) e Python (Automação de Scripts).
+- **Hardware:** Eletrónica Digital, Arduino e microcontroladores.
+- **Sistemas:** Administração de sistemas Linux via terminal.
+- **Objetivo:** Estágio em Automação Industrial / Desenvolvimento de Sistemas.
 
 ---
 
